@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053384376050954240"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053384399685829100",
+    "created_at": "2026-05-10T07:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053384399685829100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oFlC6dwt5X",
+          "end": 49,
+          "expanded_url": "https://x.com/fortearsidie/status/2053384399685829100/photo/1",
+          "media_key": "3_2053384376050954240",
+          "start": 26,
+          "url": "https://t.co/oFlC6dwt5X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053384399685829100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "存了好久说是…太穷了我要把它们都换成可以用的人民币 https://t.co/oFlC6dwt5X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053384376050954240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8WNfHasAAv0aE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053384376050954240"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053384399685829100",
+        "created_at": "2026-05-10T07:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053384399685829100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFlC6dwt5X",
+              "end": 49,
+              "expanded_url": "https://x.com/fortearsidie/status/2053384399685829100/photo/1",
+              "media_key": "3_2053384376050954240",
+              "start": 26,
+              "url": "https://t.co/oFlC6dwt5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053384399685829100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "存了好久说是…太穷了我要把它们都换成可以用的人民币 https://t.co/oFlC6dwt5X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜ISFP｜友🏳️‍🌈｜🖤🩶🤍💜｜\n欢迎互fo｜BFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 104,
+          "like_count": 1372,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 77
+        },
+        "username": "fortearsidie",
+        "verified": false
+      }
+    ]
+  }
+}

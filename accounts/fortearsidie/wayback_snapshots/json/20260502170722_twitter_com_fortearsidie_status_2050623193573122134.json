@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050623180503707648"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050623193573122134",
+    "created_at": "2026-05-02T17:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050623193573122134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2YmxHAzTNp",
+          "end": 34,
+          "expanded_url": "https://x.com/fortearsidie/status/2050623193573122134/photo/1",
+          "media_key": "3_2050623180503707648",
+          "start": 11,
+          "url": "https://t.co/2YmxHAzTNp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050623193573122134",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剧烈治疗上呼吸道感染 https://t.co/2YmxHAzTNp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050623180503707648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVG6wIa8AASI-M.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050623180503707648"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050623193573122134",
+        "created_at": "2026-05-02T17:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050623193573122134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2YmxHAzTNp",
+              "end": 34,
+              "expanded_url": "https://x.com/fortearsidie/status/2050623193573122134/photo/1",
+              "media_key": "3_2050623180503707648",
+              "start": 11,
+              "url": "https://t.co/2YmxHAzTNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050623193573122134",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈治疗上呼吸道感染 https://t.co/2YmxHAzTNp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜友🏳️‍🌈｜“我们彻夜飞旋，直至没入火焰。”",
+        "id": "1991795014163382272",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 70,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 36
+        },
+        "username": "fortearsidie",
+        "verified": false
+      }
+    ]
+  }
+}

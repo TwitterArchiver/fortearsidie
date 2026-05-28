@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2054236888266067988",
+    "created_at": "2026-05-12T16:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054236888266067988"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054236888266067988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我曾经形容她的文字和作品饱含“生命力”，这是别人作品里没有的，是一种“能力”\n她用最多的生命力，描绘了最彻底的死亡。 \n她想要的不是消失，而是投进那片沸腾的、活着的星空——那本身就是一种永恒的生命形式——而对于一个艺术家来说，那就是创造本身。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2054236888266067988",
+        "created_at": "2026-05-12T16:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054236888266067988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054236888266067988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我曾经形容她的文字和作品饱含“生命力”，这是别人作品里没有的，是一种“能力”\n她用最多的生命力，描绘了最彻底的死亡。 \n她想要的不是消失，而是投进那片沸腾的、活着的星空——那本身就是一种永恒的生命形式——而对于一个艺术家来说，那就是创造本身。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜ISFP｜友🏳️‍🌈｜🖤🩶🤍💜｜\n欢迎互fo｜BFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 115,
+          "like_count": 1581,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 88
+        },
+        "username": "fortearsidie",
+        "verified": false
+      }
+    ]
+  }
+}

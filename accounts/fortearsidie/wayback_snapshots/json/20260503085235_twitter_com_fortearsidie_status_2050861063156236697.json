@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050861023788462080"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "conversation_id": "2050861063156236697",
+    "created_at": "2026-05-03T08:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T09:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050861063156236697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eM0tUDrwGJ",
+          "end": 32,
+          "expanded_url": "https://x.com/fortearsidie/status/2050861063156236697/photo/1",
+          "media_key": "3_2050861023788462080",
+          "start": 9,
+          "url": "https://t.co/eM0tUDrwGJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050861063156236697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剧烈治疗带状疱疹 https://t.co/eM0tUDrwGJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050861023788462080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYfPDaa8AAUI5B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050861023788462080"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "conversation_id": "2050861063156236697",
+        "created_at": "2026-05-03T08:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050861063156236697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eM0tUDrwGJ",
+              "end": 32,
+              "expanded_url": "https://x.com/fortearsidie/status/2050861063156236697/photo/1",
+              "media_key": "3_2050861023788462080",
+              "start": 9,
+              "url": "https://t.co/eM0tUDrwGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050861063156236697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈治疗带状疱疹 https://t.co/eM0tUDrwGJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜友🏳️‍🌈｜“我们彻夜飞旋，直至没入火焰。”",
+        "id": "1991795014163382272",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 54,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 46
+        },
+        "username": "fortearsidie",
+        "verified": false
+      }
+    ]
+  }
+}

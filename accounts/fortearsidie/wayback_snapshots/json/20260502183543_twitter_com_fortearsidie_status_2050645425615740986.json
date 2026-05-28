@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2050642024311967883",
+    "created_at": "2026-05-02T18:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T19:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050645425615740986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050645425615740986",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050643224285638712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 睡觉吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27540,
+        "height": 576,
+        "media_key": "7_2050643173240872960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050643173240872960/pu/img/iZ-8QCLnAWk82cT4.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050643173240872960/pu/vid/avc1/320x320/r7oBQmrh8WcR4sO7.mp4?tag=25"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050643173240872960/pu/vid/avc1/576x576/-HSytoaRuWEFXSVX.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050643173240872960/pu/pl/25JVofDrsLOUNBrJ.m3u8?tag=25"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2050642024311967883",
+        "created_at": "2026-05-02T18:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050645425615740986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050645425615740986",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050643224285638712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 睡觉吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050643173240872960"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "conversation_id": "2050642024311967883",
+        "created_at": "2026-05-02T18:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050643224285638712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjcWYVnDag",
+              "end": 23,
+              "expanded_url": "https://x.com/sjshb57/status/2050643224285638712/video/1",
+              "media_key": "7_2050643173240872960",
+              "start": 0,
+              "url": "https://t.co/zjcWYVnDag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050643224285638712",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050642024311967883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/zjcWYVnDag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜友🏳️‍🌈｜“我们彻夜飞旋，直至没入火焰。”",
+        "id": "1991795014163382272",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 71,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 40
+        },
+        "username": "fortearsidie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2042185350140014617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 358,
+          "like_count": 314,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      }
+    ]
+  }
+}

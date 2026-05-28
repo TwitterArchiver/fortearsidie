@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053029235120623616"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Supernatural",
+          "id": "1046578491712389125",
+          "name": "Supernatural"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Supernatural",
+          "id": "1046578491712389125",
+          "name": "Supernatural"
+        }
+      }
+    ],
+    "conversation_id": "2053029242431246679",
+    "created_at": "2026-05-09T08:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053029242431246679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wvx83GZyrg",
+          "end": 196,
+          "expanded_url": "https://x.com/fortearsidie/status/2053029242431246679/photo/1",
+          "media_key": "3_2053029235120623616",
+          "start": 173,
+          "url": "https://t.co/wvx83GZyrg"
+        },
+        {
+          "display_url": "x.com/deptofwar/stat…",
+          "end": 220,
+          "expanded_url": "https://twitter.com/deptofwar/status/2052723504336736284",
+          "start": 197,
+          "url": "https://t.co/gbn5rDjzAM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053029242431246679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052723504336736284",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“Extraordinary claims require extraordinary evidence”\n目前其实并没有决定性的关键证据出现，包括很多人都在讨论的 “天使型UAP” ，其实也更像是Cassegrain-type folded catadioptric system的镜头伪影\n这一切看起来更像是他为了给中期选举造势放出的烟雾弹 https://t.co/wvx83GZyrg https://t.co/gbn5rDjzAM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 594,
+        "media_key": "3_2053029235120623616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3TNkDbUAAh9Kl.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053029235120623616"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Supernatural",
+              "id": "1046578491712389125",
+              "name": "Supernatural"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Supernatural",
+              "id": "1046578491712389125",
+              "name": "Supernatural"
+            }
+          }
+        ],
+        "conversation_id": "2053029242431246679",
+        "created_at": "2026-05-09T08:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053029242431246679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvx83GZyrg",
+              "end": 196,
+              "expanded_url": "https://x.com/fortearsidie/status/2053029242431246679/photo/1",
+              "media_key": "3_2053029235120623616",
+              "start": 173,
+              "url": "https://t.co/wvx83GZyrg"
+            },
+            {
+              "display_url": "x.com/deptofwar/stat…",
+              "end": 220,
+              "expanded_url": "https://twitter.com/deptofwar/status/2052723504336736284",
+              "start": 197,
+              "url": "https://t.co/gbn5rDjzAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053029242431246679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052723504336736284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“Extraordinary claims require extraordinary evidence”\n目前其实并没有决定性的关键证据出现，包括很多人都在讨论的 “天使型UAP” ，其实也更像是Cassegrain-type folded catadioptric system的镜头伪影\n这一切看起来更像是他为了给中期选举造势放出的烟雾弹 https://t.co/wvx83GZyrg https://t.co/gbn5rDjzAM"
+      },
+      {
+        "article": {
+          "title": "DEPARTMENT OF WAR RELEASES UNIDENTIFIED ANOMALOUS PHENOMENA FILES IN HISTORIC TRANSPARENCY EFFORT"
+        },
+        "attachments": {},
+        "author_id": "66369181",
+        "conversation_id": "2052723504336736284",
+        "created_at": "2026-05-08T12:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052723504336736284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2052…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2052720468323454980",
+              "start": 0,
+              "unwound_url": "https://x.com/i/article/2052720468323454980",
+              "url": "https://t.co/rzCVvUU3mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052723504336736284",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22305,
+          "impression_count": 23737376,
+          "like_count": 61011,
+          "quote_count": 5530,
+          "reply_count": 5379,
+          "retweet_count": 14848
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rzCVvUU3mu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜ISFP｜友🏳️‍🌈｜🖤🩶🤍💜｜\n欢迎互fo｜BFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052002480226283520/tf4CLrVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 100,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 73
+        },
+        "username": "fortearsidie",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-17T14:43:00.000Z",
+        "description": "Official U.S. Department of War X account.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "War.gov",
+                "end": 23,
+                "expanded_url": "http://War.gov",
+                "start": 0,
+                "url": "https://t.co/awOTVPTL4Q"
+              }
+            ]
+          }
+        },
+        "id": "66369181",
+        "location": "The Pentagon, Washington, D.C.",
+        "name": "Department of War 🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965912244262170624/7NoruMt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7195074,
+          "following_count": 671,
+          "like_count": 5159,
+          "listed_count": 17951,
+          "media_count": 16318,
+          "tweet_count": 43639
+        },
+        "url": "https://t.co/awOTVPTL4Q",
+        "username": "DeptofWar",
+        "verified": true
+      }
+    ]
+  }
+}

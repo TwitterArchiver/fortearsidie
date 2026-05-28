@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2058831396131749940",
+    "created_at": "2026-05-25T08:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058831396131749940"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058831396131749940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了应对上班时焦虑上周从医院开了劳拉西泮，本小资历正常医疗用途的药物图鉴已解锁草酸艾司西酞普兰、佐匹克隆、度洛西汀、酒石酸唑吡坦，阿立哌唑和劳拉西泮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2058831396131749940",
+        "created_at": "2026-05-25T08:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058831396131749940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058831396131749940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了应对上班时焦虑上周从医院开了劳拉西泮，本小资历正常医疗用途的药物图鉴已解锁草酸艾司西酞普兰、佐匹克隆、度洛西汀、酒石酸唑吡坦，阿立哌唑和劳拉西泮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜Male｜可以叫我Eri｜🖤🩶🤍💜｜友🏳️‍🌈\nISFP｜大龄社畜｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 198,
+          "like_count": 2943,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 132
+        },
+        "username": "fortearsidie",
+        "verified": true
+      }
+    ]
+  }
+}

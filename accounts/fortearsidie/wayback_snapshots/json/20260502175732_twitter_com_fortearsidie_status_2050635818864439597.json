@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050635706528411648"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "conversation_id": "2050635818864439597",
+    "created_at": "2026-05-02T17:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050635818864439597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XmKDgXmL6W",
+          "end": 38,
+          "expanded_url": "https://x.com/fortearsidie/status/2050635818864439597/video/1",
+          "media_key": "13_2050635706528411648",
+          "start": 15,
+          "url": "https://t.co/XmKDgXmL6W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050635818864439597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以防大家没有听过小奶猫打呼噜 https://t.co/XmKDgXmL6W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33141,
+        "height": 1078,
+        "media_key": "13_2050635706528411648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050635706528411648/img/4JKZIaQiQBx7R9Ev.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050635706528411648/vid/avc1/320x478/MltQISITUQUoparZ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050635706528411648/vid/avc1/480x718/GWiS5EiLevcmDE-x.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050635706528411648/vid/avc1/720x1078/CZSn1QORdrYVGcx3.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050635706528411648/pl/Jecg6wSd1h2TOwzi.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050635706528411648"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "conversation_id": "2050635818864439597",
+        "created_at": "2026-05-02T17:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050635818864439597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmKDgXmL6W",
+              "end": 38,
+              "expanded_url": "https://x.com/fortearsidie/status/2050635818864439597/video/1",
+              "media_key": "13_2050635706528411648",
+              "start": 15,
+              "url": "https://t.co/XmKDgXmL6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050635818864439597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以防大家没有听过小奶猫打呼噜 https://t.co/XmKDgXmL6W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜友🏳️‍🌈｜“我们彻夜飞旋，直至没入火焰。”",
+        "id": "1991795014163382272",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 69,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 37
+        },
+        "username": "fortearsidie",
+        "verified": false
+      }
+    ]
+  }
+}

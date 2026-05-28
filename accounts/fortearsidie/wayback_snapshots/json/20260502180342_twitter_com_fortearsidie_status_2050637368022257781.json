@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2050624987418202453",
+    "created_at": "2026-05-02T18:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T19:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050637368022257781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944839793533444098",
+          "start": 0,
+          "username": "mangoqwq404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050637368022257781",
+    "in_reply_to_user_id": "1944839793533444098",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050624987418202453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mangoqwq404 Have a nice dream"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2050624987418202453",
+        "created_at": "2026-05-02T18:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050637368022257781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944839793533444098",
+              "start": 0,
+              "username": "mangoqwq404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050637368022257781",
+        "in_reply_to_user_id": "1944839793533444098",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050624987418202453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangoqwq404 Have a nice dream"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944839793533444098",
+        "conversation_id": "2050624987418202453",
+        "created_at": "2026-05-02T17:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050624987418202453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050624987418202453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "静待药效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜友🏳️‍🌈｜“我们彻夜飞旋，直至没入火焰。”",
+        "id": "1991795014163382272",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 69,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 38
+        },
+        "username": "fortearsidie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T19:22:05.000Z",
+        "description": "：我是一位友好的伪人。话语中会出现混乱及颠倒、错字。请多多包庇，还在学习人类的言语方式中。\n我来这里是碎碎念疏解感情的，不是来约的不是来约的不是来约的\n私信已关，去幸福了。",
+        "id": "1944839793533444098",
+        "location": "回忆是无害的致幻剂",
+        "name": "Mango",
+        "pinned_tweet_id": "1990373989966106947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009630658604478464/_SHpaT31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 50,
+          "like_count": 2637,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 1692
+        },
+        "username": "mangoqwq404",
+        "verified": false
+      }
+    ]
+  }
+}

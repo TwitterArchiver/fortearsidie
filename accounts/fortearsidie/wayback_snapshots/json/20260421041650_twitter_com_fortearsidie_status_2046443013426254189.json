@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2046443013426254189",
+    "created_at": "2026-04-21T04:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046443013426254189"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046443013426254189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家都没有母语羞耻么… 抛开“ur pretty ” “u deserve better ”这种话，我连一句习惯说的“Have a nice day” 用中文都说不出口…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2046443013426254189",
+        "created_at": "2026-04-21T04:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046443013426254189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046443013426254189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都没有母语羞耻么… 抛开“ur pretty ” “u deserve better ”这种话，我连一句习惯说的“Have a nice day” 用中文都说不出口…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜友🏳️‍🌈｜“我们彻夜飞旋，直至没入火焰。”",
+        "id": "1991795014163382272",
+        "name": "🎄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029455281055506432/6OzKIaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "fortearsidie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2052651352304795804",
+    "created_at": "2026-05-08T07:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052651549550363120"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052651549550363120",
+    "in_reply_to_user_id": "1991795014163382272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052651352304795804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我定期会捐一点钱可我并没有觉得好受，我应该是个虚伪的人，我一辈子都没有体会过那样的生活，可我为什么还是灰心，我应该更快乐更热爱我的生活但是我没有，我甚至无法共情我自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2052651352304795804",
+        "created_at": "2026-05-08T07:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052651549550363120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052651549550363120",
+        "in_reply_to_user_id": "1991795014163382272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052651352304795804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我定期会捐一点钱可我并没有觉得好受，我应该是个虚伪的人，我一辈子都没有体会过那样的生活，可我为什么还是灰心，我应该更快乐更热爱我的生活但是我没有，我甚至无法共情我自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2052651352304795804",
+        "created_at": "2026-05-08T07:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052651352304795804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052651352304795804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事实上，我感觉很愧疚，我上了不是很差的学校，住在不是很差的房子里，我常常去购物，拥有很多东西，有两只猫，也通常能得到自己想要的一切。这些本应该让我开心，我知道每个人都有属于自己的痛苦，可我时常觉得我想要的是不是太多，有很多人挨饿，没有学上，或者被霸凌，他们更有理由抑郁或者憎恨生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜ISFP｜友🏳️‍🌈｜🖤🩶🤍💜｜\n欢迎互fo｜BFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052002480226283520/tf4CLrVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 99,
+          "like_count": 1219,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 70
+        },
+        "username": "fortearsidie",
+        "verified": false
+      }
+    ]
+  }
+}

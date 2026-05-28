@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054839037379346432",
+        "3_2054839037375176704"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "conversation_id": "2054839052822810949",
+    "created_at": "2026-05-14T08:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T09:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054839052822810949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ErP9QRaXjt",
+          "end": 88,
+          "expanded_url": "https://x.com/fortearsidie/status/2054839052822810949/photo/1",
+          "media_key": "3_2054839037379346432",
+          "start": 65,
+          "url": "https://t.co/ErP9QRaXjt"
+        },
+        {
+          "display_url": "pic.x.com/ErP9QRaXjt",
+          "end": 88,
+          "expanded_url": "https://x.com/fortearsidie/status/2054839052822810949/photo/1",
+          "media_key": "3_2054839037375176704",
+          "start": 65,
+          "url": "https://t.co/ErP9QRaXjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054839052822810949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "新闻里北京街头又插上了中美两国的国旗，我不想谈论太多政治，但就像这篇小红书的内容一样，我曾经真的以为全球化会在我的有生之年实现。\n我和我的同学从小接受这样的叙事，我们被教导爱国，但也教我们尊重别国的文化，我们在春节时会贴春联放鞭炮，也会在圣诞节互送贺卡和礼物，人与人之间没有那么多隔阂和仇恨，毕竟，Christmas eve和除夕夜没什么区别，人们想要的只是一个温暖且团聚的夜晚，那时的人们真的相信明天会更好。\n可是明天真的会更好么？\n世界在我没有反应过来的时候加速右转，宛若切香肠一样，在我不经意间一点一点蚕食我的幻想，大家不再提倡开放包容，人们开始消极，开始封闭，更多且让我失落的是，我感受到人们的麻木，人们不愿意乐观，哪怕连保持理想主义这件事都不愿意尝试了。\n现在的我被卡在中间，进退两难，当我透过玫瑰色的滤镜回头看时，我觉得过去比现在更近未来。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新闻里北京街头又插上了中美两国的国旗，我不想谈论太多政治，但就像这篇小红书的内容一样，我曾经真的以为全球化会在我的有生之年实现。 https://t.co/ErP9QRaXjt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054839037379346432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRBN62aAAADGqC.jpg",
+        "width": 1002
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054839037375176704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRBN61aYAA5nYH.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054839037379346432",
+            "3_2054839037375176704"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "conversation_id": "2054839052822810949",
+        "created_at": "2026-05-14T08:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054839052822810949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ErP9QRaXjt",
+              "end": 88,
+              "expanded_url": "https://x.com/fortearsidie/status/2054839052822810949/photo/1",
+              "media_key": "3_2054839037379346432",
+              "start": 65,
+              "url": "https://t.co/ErP9QRaXjt"
+            },
+            {
+              "display_url": "pic.x.com/ErP9QRaXjt",
+              "end": 88,
+              "expanded_url": "https://x.com/fortearsidie/status/2054839052822810949/photo/1",
+              "media_key": "3_2054839037375176704",
+              "start": 65,
+              "url": "https://t.co/ErP9QRaXjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054839052822810949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "新闻里北京街头又插上了中美两国的国旗，我不想谈论太多政治，但就像这篇小红书的内容一样，我曾经真的以为全球化会在我的有生之年实现。\n我和我的同学从小接受这样的叙事，我们被教导爱国，但也教我们尊重别国的文化，我们在春节时会贴春联放鞭炮，也会在圣诞节互送贺卡和礼物，人与人之间没有那么多隔阂和仇恨，毕竟，Christmas eve和除夕夜没什么区别，人们想要的只是一个温暖且团聚的夜晚，那时的人们真的相信明天会更好。\n可是明天真的会更好么？\n世界在我没有反应过来的时候加速右转，宛若切香肠一样，在我不经意间一点一点蚕食我的幻想，大家不再提倡开放包容，人们开始消极，开始封闭，更多且让我失落的是，我感受到人们的麻木，人们不愿意乐观，哪怕连保持理想主义这件事都不愿意尝试了。\n现在的我被卡在中间，进退两难，当我透过玫瑰色的滤镜回头看时，我觉得过去比现在更近未来。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新闻里北京街头又插上了中美两国的国旗，我不想谈论太多政治，但就像这篇小红书的内容一样，我曾经真的以为全球化会在我的有生之年实现。 https://t.co/ErP9QRaXjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜ISFP｜友🏳️‍🌈｜🖤🩶🤍💜｜\n欢迎互fo｜BFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 116,
+          "like_count": 1677,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 94
+        },
+        "username": "fortearsidie",
+        "verified": true
+      }
+    ]
+  }
+}

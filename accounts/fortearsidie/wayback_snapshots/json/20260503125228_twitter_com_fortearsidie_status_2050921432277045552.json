@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050921372625649664",
+        "3_2050921372625555456",
+        "3_2050921372617211904",
+        "3_2050921372625580032"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050921432277045552",
+    "created_at": "2026-05-03T12:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050921432277045552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z8AKSfa4tp",
+          "end": 97,
+          "expanded_url": "https://x.com/fortearsidie/status/2050921432277045552/photo/1",
+          "media_key": "3_2050921372625649664",
+          "start": 74,
+          "url": "https://t.co/Z8AKSfa4tp"
+        },
+        {
+          "display_url": "pic.x.com/Z8AKSfa4tp",
+          "end": 97,
+          "expanded_url": "https://x.com/fortearsidie/status/2050921432277045552/photo/1",
+          "media_key": "3_2050921372625555456",
+          "start": 74,
+          "url": "https://t.co/Z8AKSfa4tp"
+        },
+        {
+          "display_url": "pic.x.com/Z8AKSfa4tp",
+          "end": 97,
+          "expanded_url": "https://x.com/fortearsidie/status/2050921432277045552/photo/1",
+          "media_key": "3_2050921372617211904",
+          "start": 74,
+          "url": "https://t.co/Z8AKSfa4tp"
+        },
+        {
+          "display_url": "pic.x.com/Z8AKSfa4tp",
+          "end": 97,
+          "expanded_url": "https://x.com/fortearsidie/status/2050921432277045552/photo/1",
+          "media_key": "3_2050921372625580032",
+          "start": 74,
+          "url": "https://t.co/Z8AKSfa4tp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050921432277045552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果大家有在上海 我向大家推荐在静安的“rink轮滑主题餐厅” 它符合我对美国大部分的“乡愁” 而且菜品也正宗 松饼超棒！！！简直是降低皮脂腺圣地 https://t.co/Z8AKSfa4tp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050921372625649664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZWH0WbwAA293h.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050921372625555456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZWH0WaUAACf2F.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050921372617211904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZWH0UbAAARq64.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050921372625580032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZWH0WasAAFx0C.jpg",
+        "width": 1692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050921372625649664",
+            "3_2050921372625555456",
+            "3_2050921372617211904",
+            "3_2050921372625580032"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050921432277045552",
+        "created_at": "2026-05-03T12:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050921432277045552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z8AKSfa4tp",
+              "end": 97,
+              "expanded_url": "https://x.com/fortearsidie/status/2050921432277045552/photo/1",
+              "media_key": "3_2050921372625649664",
+              "start": 74,
+              "url": "https://t.co/Z8AKSfa4tp"
+            },
+            {
+              "display_url": "pic.x.com/Z8AKSfa4tp",
+              "end": 97,
+              "expanded_url": "https://x.com/fortearsidie/status/2050921432277045552/photo/1",
+              "media_key": "3_2050921372625555456",
+              "start": 74,
+              "url": "https://t.co/Z8AKSfa4tp"
+            },
+            {
+              "display_url": "pic.x.com/Z8AKSfa4tp",
+              "end": 97,
+              "expanded_url": "https://x.com/fortearsidie/status/2050921432277045552/photo/1",
+              "media_key": "3_2050921372617211904",
+              "start": 74,
+              "url": "https://t.co/Z8AKSfa4tp"
+            },
+            {
+              "display_url": "pic.x.com/Z8AKSfa4tp",
+              "end": 97,
+              "expanded_url": "https://x.com/fortearsidie/status/2050921432277045552/photo/1",
+              "media_key": "3_2050921372625580032",
+              "start": 74,
+              "url": "https://t.co/Z8AKSfa4tp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050921432277045552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果大家有在上海 我向大家推荐在静安的“rink轮滑主题餐厅” 它符合我对美国大部分的“乡愁” 而且菜品也正宗 松饼超棒！！！简直是降低皮脂腺圣地 https://t.co/Z8AKSfa4tp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜友🏳️‍🌈｜“我们彻夜飞旋，直至没入火焰。”",
+        "id": "1991795014163382272",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 63,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 48
+        },
+        "username": "fortearsidie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2058824604815331553",
+    "created_at": "2026-05-25T08:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058829220554633415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626412170337746944",
+          "start": 0,
+          "username": "moontidebemoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058829220554633415",
+    "in_reply_to_user_id": "1626412170337746944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058824604815331553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moontidebemoth 内圈👁️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2058824600734380032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJqEPWbsAA-tJq.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2058824604815331553",
+        "created_at": "2026-05-25T08:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058829220554633415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626412170337746944",
+              "start": 0,
+              "username": "moontidebemoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058829220554633415",
+        "in_reply_to_user_id": "1626412170337746944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058824604815331553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moontidebemoth 内圈👁️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058824600734380032"
+          ]
+        },
+        "author_id": "1626412170337746944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2058824604815331553",
+        "created_at": "2026-05-25T08:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058824604815331553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/HCHZ3nHapt"
+            },
+            {
+              "display_url": "pic.x.com/sFGsDyHhm7",
+              "end": 64,
+              "expanded_url": "https://x.com/moontidebemoth/status/2058824604815331553/photo/1",
+              "media_key": "3_2058824600734380032",
+              "start": 41,
+              "url": "https://t.co/sFGsDyHhm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058824604815331553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/HCHZ3nHapt https://t.co/sFGsDyHhm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜Male｜可以叫我Eri｜🖤🩶🤍💜｜友🏳️‍🌈\nISFP｜大龄社畜｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 198,
+          "like_count": 2941,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 131
+        },
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-17T02:44:27.000Z",
+        "description": "PDD人格障碍 穷且益坚 黄毛碎钻 语言！\nYuki need 電波系宅女 恋人 @Fuyugumomizuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "Fuyugumomizuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaiun7773283479",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaiun7773283479",
+                "start": 0,
+                "url": "https://t.co/XPRlg8xWde"
+              }
+            ]
+          }
+        },
+        "id": "1626412170337746944",
+        "location": "阶段四",
+        "name": "AOI99905230523cocbg",
+        "pinned_tweet_id": "2053063715273277741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862057214338314240/ykNDOPkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 148,
+          "like_count": 13770,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1611
+        },
+        "url": "https://t.co/XPRlg8xWde",
+        "username": "moontidebemoth",
+        "verified": false
+      }
+    ]
+  }
+}

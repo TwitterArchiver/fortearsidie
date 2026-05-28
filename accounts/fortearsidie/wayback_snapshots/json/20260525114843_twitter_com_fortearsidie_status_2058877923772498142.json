@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2058646462527889528",
+    "created_at": "2026-05-25T11:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058877923772498142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1576909834259410944",
+          "start": 0,
+          "username": "Qiuyan_Riky"
+        },
+        {
+          "end": 29,
+          "id": "1695553771961729024",
+          "start": 13,
+          "username": "Shiraishiwatari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058877923772498142",
+    "in_reply_to_user_id": "1576909834259410944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058847176864694496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiuyan_Riky @Shiraishiwatari 说的对我应该去掉bio中的无性恋旗帜转而使用大大的中文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2058646462527889528",
+        "created_at": "2026-05-25T11:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058877923772498142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1576909834259410944",
+              "start": 0,
+              "username": "Qiuyan_Riky"
+            },
+            {
+              "end": 29,
+              "id": "1695553771961729024",
+              "start": 13,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058877923772498142",
+        "in_reply_to_user_id": "1576909834259410944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058847176864694496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiuyan_Riky @Shiraishiwatari 说的对我应该去掉bio中的无性恋旗帜转而使用大大的中文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576909834259410944",
+        "conversation_id": "2058646462527889528",
+        "created_at": "2026-05-25T09:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058847176864694496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695553771961729024",
+              "start": 0,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058847176864694496",
+        "in_reply_to_user_id": "1695553771961729024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058646462527889528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiraishiwatari 我和朋友都是 如果你是同就是同性浪漫倾向同性恋 （前者romantic 后者sexual）我有双性恋浪漫倾向无性恋的朋友…非常好用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜Male｜可以叫我Eri｜🖤🩶🤍💜｜友🏳️‍🌈\nISFP｜大龄社畜｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 202,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 133
+        },
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-03T12:19:56.000Z",
+        "description": "怠惰的风又掀起几簇 发尾的蓝｜she/her/they｜EN/CN ｜fanfic/original stories｜ ⴵᱬ｜🏳️‍🌈",
+        "id": "1576909834259410944",
+        "location": "York, England",
+        "name": "Max",
+        "pinned_tweet_id": "1980730499938107815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980728243800981504/JkvF9pmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 66,
+          "like_count": 1716,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 311
+        },
+        "username": "Qiuyan_Riky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "生活边角料堆放处/🇮🇹Milano/🖤🩶🤍💚/Neptunic/已有伴侶@kobayashmiyako（受法律保护/Antinatalism/Q4Q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 36,
+                "username": "kobayashmiyako"
+              }
+            ]
+          }
+        },
+        "id": "1695553771961729024",
+        "name": "白石渡",
+        "pinned_tweet_id": "1866204785122189490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 34,
+          "like_count": 2903,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 627
+        },
+        "username": "Shiraishiwatari",
+        "verified": false
+      }
+    ]
+  }
+}

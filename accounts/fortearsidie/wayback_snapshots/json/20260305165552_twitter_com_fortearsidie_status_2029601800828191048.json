@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029601791495880704"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "conversation_id": "2029601800828191048",
+    "created_at": "2026-03-05T16:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029601800828191048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SZrU9e6l03",
+          "end": 23,
+          "expanded_url": "https://x.com/fortearsidie/status/2029601800828191048/photo/1",
+          "media_key": "3_2029601791495880704",
+          "start": 0,
+          "url": "https://t.co/SZrU9e6l03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029601800828191048",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/SZrU9e6l03"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2029601791495880704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqYE3mbwAAr7LI.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029601791495880704"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "conversation_id": "2029601800828191048",
+        "created_at": "2026-03-05T16:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029601800828191048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZrU9e6l03",
+              "end": 23,
+              "expanded_url": "https://x.com/fortearsidie/status/2029601800828191048/photo/1",
+              "media_key": "3_2029601791495880704",
+              "start": 0,
+              "url": "https://t.co/SZrU9e6l03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029601800828191048",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SZrU9e6l03"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "",
+        "id": "1991795014163382272",
+        "name": "🎄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029455281055506432/6OzKIaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "fortearsidie",
+        "verified": false
+      }
+    ]
+  }
+}

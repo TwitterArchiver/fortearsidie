@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2048080511852294642",
+    "created_at": "2026-04-25T16:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048080511852294642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fortearsidie/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/fortearsidie/status/2048071948966748389",
+          "start": 44,
+          "url": "https://t.co/wxOs8QSyD0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048080511852294642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048071948966748389",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我厌倦了水 踩水 与呛水 \n我会一直游 游到意大利 \n再之后 \n就让这些都随风 都飘散 https://t.co/wxOs8QSyD0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2048080511852294642",
+        "created_at": "2026-04-25T16:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048080511852294642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fortearsidie/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/fortearsidie/status/2048071948966748389",
+              "start": 44,
+              "url": "https://t.co/wxOs8QSyD0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048080511852294642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048071948966748389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我厌倦了水 踩水 与呛水 \n我会一直游 游到意大利 \n再之后 \n就让这些都随风 都飘散 https://t.co/wxOs8QSyD0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2048071948966748389",
+        "created_at": "2026-04-25T16:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048071948966748389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048071948966748389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在水里不停踩水保持不沉下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜友🏳️‍🌈｜“我们彻夜飞旋，直至没入火焰。”",
+        "id": "1991795014163382272",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 41,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "fortearsidie",
+        "verified": false
+      }
+    ]
+  }
+}

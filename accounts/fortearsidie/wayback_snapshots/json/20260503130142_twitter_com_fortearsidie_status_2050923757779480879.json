@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2050913797217423714",
+    "created_at": "2026-05-03T13:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050923757779480879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964358400453857281",
+          "start": 0,
+          "username": "shiroki_rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050923757779480879",
+    "in_reply_to_user_id": "1964358400453857281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050913797217423714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroki_rui 这么高质量的推文么…神降临…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3422,
+        "media_key": "3_2050913760697528320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZPMvtWMAA83Ne.jpg",
+        "width": 3582
+      },
+      {
+        "height": 1238,
+        "media_key": "3_2050913760693399552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZPMvsXMAA-o64.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1491,
+        "media_key": "3_2050913760693428224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZPMvsXoAACeGf.jpg",
+        "width": 1290
+      },
+      {
+        "height": 635,
+        "media_key": "3_2050913760693395456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZPMvsXIAAx_Dp.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2050913797217423714",
+        "created_at": "2026-05-03T13:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050923757779480879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964358400453857281",
+              "start": 0,
+              "username": "shiroki_rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050923757779480879",
+        "in_reply_to_user_id": "1964358400453857281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050913797217423714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroki_rui 这么高质量的推文么…神降临…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050913760697528320",
+            "3_2050913760693399552",
+            "3_2050913760693428224",
+            "3_2050913760693395456"
+          ]
+        },
+        "author_id": "1964358400453857281",
+        "conversation_id": "2050913797217423714",
+        "created_at": "2026-05-03T12:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050913797217423714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOg4sHWulY",
+              "end": 46,
+              "expanded_url": "https://x.com/shiroki_rui/status/2050913797217423714/photo/1",
+              "media_key": "3_2050913760697528320",
+              "start": 23,
+              "url": "https://t.co/hOg4sHWulY"
+            },
+            {
+              "display_url": "pic.x.com/hOg4sHWulY",
+              "end": 46,
+              "expanded_url": "https://x.com/shiroki_rui/status/2050913797217423714/photo/1",
+              "media_key": "3_2050913760693399552",
+              "start": 23,
+              "url": "https://t.co/hOg4sHWulY"
+            },
+            {
+              "display_url": "pic.x.com/hOg4sHWulY",
+              "end": 46,
+              "expanded_url": "https://x.com/shiroki_rui/status/2050913797217423714/photo/1",
+              "media_key": "3_2050913760693428224",
+              "start": 23,
+              "url": "https://t.co/hOg4sHWulY"
+            },
+            {
+              "display_url": "pic.x.com/hOg4sHWulY",
+              "end": 46,
+              "expanded_url": "https://x.com/shiroki_rui/status/2050913797217423714/photo/1",
+              "media_key": "3_2050913760693395456",
+              "start": 23,
+              "url": "https://t.co/hOg4sHWulY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050913797217423714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 83,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逛花卉节，人就这样一路拍，机就这样一路教^^ https://t.co/hOg4sHWulY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "碎碎念｜可以叫我Eri｜友🏳️‍🌈｜“我们彻夜飞旋，直至没入火焰。”",
+        "id": "1991795014163382272",
+        "name": "拜托了思诺思大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 66,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 49
+        },
+        "username": "fortearsidie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T16:02:07.000Z",
+        "description": "汐｜掌心里的鲸 @_lelueur",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "_lelueur"
+              }
+            ]
+          }
+        },
+        "id": "1964358400453857281",
+        "name": "shio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964358524550647808/hNkDeNGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 55,
+          "like_count": 1365,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 537
+        },
+        "username": "shiroki_rui",
+        "verified": false
+      }
+    ]
+  }
+}
