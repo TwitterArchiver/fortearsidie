@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-04T06:52:02",
+  "last_updated": "2026-06-07T06:13:26",
   "html": {
     "https://web.archive.org/web/20260420073120if_/https://twitter.com/fortearsidie/status/2046129576452161589": {
       "status": "done",
@@ -673,6 +673,34 @@
     "https://web.archive.org/web/20260602092717if_/https://twitter.com/fortearsidie/status/2061741430855626858": {
       "status": "done",
       "last_updated": "2026-06-04T06:50:29"
+    },
+    "https://web.archive.org/web/20260605143748if_/https://twitter.com/fortearsidie/status/2062906741780836494": {
+      "status": "done",
+      "last_updated": "2026-06-07T06:12:24"
+    },
+    "https://web.archive.org/web/20260603151602if_/https://twitter.com/fortearsidie/status/2062191587657150909": {
+      "status": "done",
+      "last_updated": "2026-06-07T06:12:24"
+    },
+    "https://web.archive.org/web/20260605143714if_/https://twitter.com/fortearsidie/status/2062906598415319344": {
+      "status": "done",
+      "last_updated": "2026-06-07T06:12:24"
+    },
+    "https://web.archive.org/web/20260603150217if_/https://twitter.com/fortearsidie/status/2062188127985549467": {
+      "status": "done",
+      "last_updated": "2026-06-07T06:12:25"
+    },
+    "https://web.archive.org/web/20260603145850if_/https://twitter.com/fortearsidie/status/2062187257831010620": {
+      "status": "done",
+      "last_updated": "2026-06-07T06:12:25"
+    },
+    "https://web.archive.org/web/20260603152907if_/https://twitter.com/fortearsidie/status/2062194877266571345": {
+      "status": "done",
+      "last_updated": "2026-06-07T06:12:25"
+    },
+    "https://web.archive.org/web/20260606013316if_/https://twitter.com/fortearsidie/status/2063071695016243538": {
+      "status": "done",
+      "last_updated": "2026-06-07T06:12:27"
     }
   },
   "images": {
@@ -727,18 +755,18 @@
       "referenced_by": [
         "20260422063648_twitter_com_fortearsidie_status_2046840626579419323.json"
       ],
-      "last_updated": "2026-06-04T06:50:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422063648if_/https://pbs.twimg.com/media/HGfWsk2aEAAR4Xh.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8178b31ca0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 8
+      "last_updated": "2026-06-07T06:12:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422063648if_/https://pbs.twimg.com/media/HGfWsk2aEAAR4Xh.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7d32ef9670>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HGrwsoGasAAe84j.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260424162551_twitter_com_fortearsidie_status_2047713640720245246.json"
       ],
-      "last_updated": "2026-06-04T06:50:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424162551im_/https://pbs.twimg.com/media/HGrwsoGasAAe84j.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8178b30aa0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 8
+      "last_updated": "2026-06-07T06:12:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424162551im_/https://pbs.twimg.com/media/HGrwsoGasAAe84j.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7d32efab10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HG_GmXCacAAuo61.jpg": {
       "status": "done",
@@ -748,22 +776,22 @@
       "last_updated": "2026-05-28T05:47:14"
     },
     "https://pbs.twimg.com/media/HHP0da8acAAhkEp.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260501162837_twitter_com_fortearsidie_status_2050251054009455083.json"
       ],
-      "last_updated": "2026-06-04T06:51:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501162837im_/https://pbs.twimg.com/media/HHP0da8acAAhkEp.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8178b304d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 7
+      "last_updated": "2026-06-07T06:12:32",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260501162837/https://pbs.twimg.com/media/HHP0da8acAAhkEp.jpg",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/media/HHP0da6a0AAIFSv.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260501162837_twitter_com_fortearsidie_status_2050251054009455083.json"
       ],
-      "last_updated": "2026-06-04T06:51:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501162837im_/https://pbs.twimg.com/media/HHP0da6a0AAIFSv.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8178b56030>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 8
+      "last_updated": "2026-06-07T06:12:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501162837if_/https://pbs.twimg.com/media/HHP0da6a0AAIFSv.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7d3172ecc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HHP1DbrakAEe3Jd.jpg": {
       "status": "done",
@@ -798,18 +826,18 @@
       "referenced_by": [
         "20260502071149_twitter_com_fortearsidie_status_2050473315832373328.json"
       ],
-      "last_updated": "2026-06-04T06:51:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502071149im_/https://pbs.twimg.com/media/HHS-mfYbgAAkE0T.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8179236d80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 7
+      "last_updated": "2026-06-07T06:13:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502071149if_/https://pbs.twimg.com/media/HHS-mfYbgAAkE0T.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7d3172ccb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HHS-mf2akAAcznO.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260502071149_twitter_com_fortearsidie_status_2050473315832373328.json"
       ],
-      "last_updated": "2026-06-04T06:51:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502071149im_/https://pbs.twimg.com/media/HHS-mf2akAAcznO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8178b6e2a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 8
+      "last_updated": "2026-06-07T06:13:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502071149if_/https://pbs.twimg.com/media/HHS-mf2akAAcznO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7d3172f500>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HHUPnIEacAEJY3R.jpg": {
       "status": "done",
@@ -963,9 +991,9 @@
       "referenced_by": [
         "20260504144958_twitter_com_fortearsidie_status_2051313390686248966.json"
       ],
-      "last_updated": "2026-06-04T06:51:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504144958im_/https://pbs.twimg.com/media/HHe6oSSbMAAu8au.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8179237980>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 8
+      "last_updated": "2026-06-07T06:13:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504144958if_/https://pbs.twimg.com/media/HHe6oSSbMAAu8au.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7d32ef8b00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HHe7X6Jb0AEVuSU.jpg": {
       "status": "done",
@@ -1021,9 +1049,9 @@
       "referenced_by": [
         "20260509094441_twitter_com_fortearsidie_status_2053048501861519736.json"
       ],
-      "last_updated": "2026-06-04T06:51:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509094441im_/https://pbs.twimg.com/media/HH3kucfacAEFDcS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8179236840>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 7
+      "last_updated": "2026-06-07T06:13:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509094441im_/https://pbs.twimg.com/media/HH3kucfacAEFDcS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7d3172e180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HH3mVMXacAELiPh.jpg": {
       "status": "done",
@@ -1065,16 +1093,16 @@
       "referenced_by": [
         "20260512120517_twitter_com_fortearsidie_status_2054171048544002381.json"
       ],
-      "last_updated": "2026-06-04T06:50:30"
+      "last_updated": "2026-06-07T06:12:28"
     },
     "https://pbs.twimg.com/media/HIHSrYuaQAAqHzy.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260512120517_twitter_com_fortearsidie_status_2054171048544002381.json"
       ],
-      "last_updated": "2026-06-04T06:51:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512120517im_/https://pbs.twimg.com/media/HIHSrYuaQAAqHzy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8178b31a00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 7
+      "last_updated": "2026-06-07T06:13:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512120517im_/https://pbs.twimg.com/media/HIHSrYuaQAAqHzy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7d317508f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HIIOTlPa0AAGdz1.jpg": {
       "status": "done",
@@ -1282,6 +1310,41 @@
         "20260601074806_twitter_com_fortearsidie_status_2061354082674368971.json"
       ],
       "last_updated": "2026-06-04T06:50:30"
+    },
+    "https://pbs.twimg.com/media/HKDnFFAbcAAaEAG.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260605143714_twitter_com_fortearsidie_status_2062906598415319344.json"
+      ],
+      "last_updated": "2026-06-07T06:12:28"
+    },
+    "https://pbs.twimg.com/media/HKCsQXPbQAAeOiF.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260605143748_twitter_com_fortearsidie_status_2062906741780836494.json"
+      ],
+      "last_updated": "2026-06-07T06:12:28"
+    },
+    "https://pbs.twimg.com/media/HKCsQXIaUAA_Ngo.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260605143748_twitter_com_fortearsidie_status_2062906741780836494.json"
+      ],
+      "last_updated": "2026-06-07T06:12:28"
+    },
+    "https://pbs.twimg.com/media/HKF9OCiaQAA3ZmL.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260606013316_twitter_com_fortearsidie_status_2063071695016243538.json"
+      ],
+      "last_updated": "2026-06-07T06:12:28"
+    },
+    "https://pbs.twimg.com/media/HKF9OClaEAAvPEE.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260606013316_twitter_com_fortearsidie_status_2063071695016243538.json"
+      ],
+      "last_updated": "2026-06-07T06:12:28"
     }
   },
   "videos": {
@@ -1670,7 +1733,14 @@
         "20260601074806_twitter_com_fortearsidie_status_2061354082674368971.json",
         "20260601075452_twitter_com_fortearsidie_status_2061355788225192063.json",
         "20260602092717_twitter_com_fortearsidie_status_2061741430855626858.json",
-        "20260602124735_twitter_com_fortearsidie_status_2061791837770440818.json"
+        "20260602124735_twitter_com_fortearsidie_status_2061791837770440818.json",
+        "20260603145850_twitter_com_fortearsidie_status_2062187257831010620.json",
+        "20260603150217_twitter_com_fortearsidie_status_2062188127985549467.json",
+        "20260603151602_twitter_com_fortearsidie_status_2062191587657150909.json",
+        "20260603152907_twitter_com_fortearsidie_status_2062194877266571345.json",
+        "20260605143714_twitter_com_fortearsidie_status_2062906598415319344.json",
+        "20260605143748_twitter_com_fortearsidie_status_2062906741780836494.json",
+        "20260606013316_twitter_com_fortearsidie_status_2063071695016243538.json"
       ],
       "last_updated": "2026-05-28T05:39:40"
     },
@@ -1798,7 +1868,8 @@
     "https://pbs.twimg.com/profile_images/2056418645686063104/2L0qxg8O_normal.jpg": {
       "status": "done",
       "referenced_by": [
-        "20260526153601_twitter_com_fortearsidie_status_2059297513086292234.json"
+        "20260526153601_twitter_com_fortearsidie_status_2059297513086292234.json",
+        "20260603145850_twitter_com_fortearsidie_status_2062187257831010620.json"
       ],
       "last_updated": "2026-05-28T05:39:40"
     },
@@ -1822,6 +1893,27 @@
         "20260602092717_twitter_com_fortearsidie_status_2061741430855626858.json"
       ],
       "last_updated": "2026-06-04T06:52:02"
+    },
+    "https://pbs.twimg.com/profile_images/2060933350387503104/reSIXH_w_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260603150217_twitter_com_fortearsidie_status_2062188127985549467.json",
+        "20260603151602_twitter_com_fortearsidie_status_2062191587657150909.json",
+        "20260603152907_twitter_com_fortearsidie_status_2062194877266571345.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/1067726177505165312/QCDwmoup_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260605143714_twitter_com_fortearsidie_status_2062906598415319344.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2062527414274834432/NNGV4wEi_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260605143748_twitter_com_fortearsidie_status_2062906741780836494.json",
+        "20260606013316_twitter_com_fortearsidie_status_2063071695016243538.json"
+      ]
     }
   },
   "media": {
@@ -2026,8 +2118,8 @@
           "https://pbs.twimg.com/profile_images/2029455281055506432/6OzKIaWg_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-04T06:51:50",
-      "miss_count": 6
+      "last_updated": "2026-06-07T06:12:32",
+      "miss_count": 7
     },
     "20260422123227_twitter_com_fortearsidie_status_2046930128358510779.json": {
       "status": "done",
@@ -2088,8 +2180,8 @@
           "https://pbs.twimg.com/profile_images/2047713599561621505/XjenmPOH_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-04T06:51:50",
-      "miss_count": 6
+      "last_updated": "2026-06-07T06:12:34",
+      "miss_count": 7
     },
     "20260425160938_twitter_com_fortearsidie_status_2048071948966748389.json": {
       "status": "done",
@@ -2252,8 +2344,8 @@
           "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-04T06:51:50",
-      "miss_count": 6
+      "last_updated": "2026-06-07T06:12:36",
+      "miss_count": 7
     },
     "20260501163113_twitter_com_fortearsidie_status_2050251708610285861.json": {
       "status": "done",
@@ -2331,8 +2423,8 @@
           "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-04T06:51:50",
-      "miss_count": 6
+      "last_updated": "2026-06-07T06:12:42",
+      "miss_count": 7
     },
     "20260502132413_twitter_com_fortearsidie_status_2050567036158509072.json": {
       "status": "done",
@@ -2721,8 +2813,8 @@
           "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-04T06:51:50",
-      "miss_count": 6
+      "last_updated": "2026-06-07T06:12:32",
+      "miss_count": 7
     },
     "20260504145314_twitter_com_fortearsidie_status_2051314212291617203.json": {
       "status": "done",
@@ -2965,8 +3057,8 @@
           "https://pbs.twimg.com/profile_images/2052002480226283520/tf4CLrVm_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-04T06:51:50",
-      "miss_count": 6
+      "last_updated": "2026-06-07T06:12:32",
+      "miss_count": 7
     },
     "20260509095142_twitter_com_fortearsidie_status_2053050267567059112.json": {
       "status": "done",
@@ -3132,8 +3224,8 @@
           "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-04T06:51:50",
-      "miss_count": 6
+      "last_updated": "2026-06-07T06:12:32",
+      "miss_count": 7
     },
     "20260512152021_twitter_com_fortearsidie_status_2054220140829716723.json": {
       "status": "done",
@@ -3975,6 +4067,98 @@
         ]
       },
       "last_updated": "2026-06-04T06:50:29"
+    },
+    "20260603145850_twitter_com_fortearsidie_status_2062187257831010620.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2056418645686063104/2L0qxg8O_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-06-07T06:12:27"
+    },
+    "20260603150217_twitter_com_fortearsidie_status_2062188127985549467.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2060933350387503104/reSIXH_w_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-06-07T06:12:27"
+    },
+    "20260603151602_twitter_com_fortearsidie_status_2062191587657150909.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2060933350387503104/reSIXH_w_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-06-07T06:12:27"
+    },
+    "20260603152907_twitter_com_fortearsidie_status_2062194877266571345.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2060933350387503104/reSIXH_w_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-06-07T06:12:27"
+    },
+    "20260605143714_twitter_com_fortearsidie_status_2062906598415319344.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HKDnFFAbcAAaEAG.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1067726177505165312/QCDwmoup_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-06-07T06:12:28"
+    },
+    "20260605143748_twitter_com_fortearsidie_status_2062906741780836494.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HKCsQXPbQAAeOiF.jpg",
+          "https://pbs.twimg.com/media/HKCsQXIaUAA_Ngo.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2062527414274834432/NNGV4wEi_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-06-07T06:12:28"
+    },
+    "20260606013316_twitter_com_fortearsidie_status_2063071695016243538.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HKF9OCiaQAA3ZmL.jpg",
+          "https://pbs.twimg.com/media/HKF9OClaEAAvPEE.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2062527414274834432/NNGV4wEi_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-06-07T06:12:28"
     }
   }
 }

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2063067884226838732",
+    "created_at": "2026-06-06T01:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T02:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063071695016243538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1303801978624118784",
+          "start": 0,
+          "username": "ChaNgeMiNd67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063071695016243538",
+    "in_reply_to_user_id": "1303801978624118784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063067884226838732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaNgeMiNd67 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063067784465235968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKF9OCiaQAA3ZmL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063067784477806592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKF9OClaEAAvPEE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2063067884226838732",
+        "created_at": "2026-06-06T01:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063071695016243538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1303801978624118784",
+              "start": 0,
+              "username": "ChaNgeMiNd67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063071695016243538",
+        "in_reply_to_user_id": "1303801978624118784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063067884226838732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaNgeMiNd67 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063067784465235968",
+            "3_2063067784477806592"
+          ]
+        },
+        "author_id": "1303801978624118784",
+        "conversation_id": "2063067884226838732",
+        "created_at": "2026-06-06T01:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063067884226838732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8bbc1j6Kp",
+              "end": 29,
+              "expanded_url": "https://x.com/ChaNgeMiNd67/status/2063067884226838732/photo/1",
+              "media_key": "3_2063067784465235968",
+              "start": 6,
+              "url": "https://t.co/b8bbc1j6Kp"
+            },
+            {
+              "display_url": "pic.x.com/b8bbc1j6Kp",
+              "end": 29,
+              "expanded_url": "https://x.com/ChaNgeMiNd67/status/2063067884226838732/photo/1",
+              "media_key": "3_2063067784477806592",
+              "start": 6,
+              "url": "https://t.co/b8bbc1j6Kp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063067884226838732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "robo啊 https://t.co/b8bbc1j6Kp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 314,
+          "like_count": 5023,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 157
+        },
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-09T21:06:41.000Z",
+        "description": "我有精神病发的都是梦话不要跟我生气",
+        "id": "1303801978624118784",
+        "location": "地府",
+        "name": "帶狀皰疹患者",
+        "pinned_tweet_id": "2061769217456890202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062527414274834432/NNGV4wEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 139
+        },
+        "username": "ChaNgeMiNd67",
+        "verified": false
+      }
+    ]
+  }
+}
