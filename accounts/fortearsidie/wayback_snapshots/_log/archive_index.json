@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-12T16:44:30",
+  "last_updated": "2026-06-12T16:44:46",
   "html": {
     "https://web.archive.org/web/20260420073120if_/https://twitter.com/fortearsidie/status/2046129576452161589": {
       "status": "done",
@@ -1582,10 +1582,11 @@
       "miss_count": 1
     },
     "https://video.twimg.com/ext_tw_video/2063168931230273536/pu/vid/avc1/720x1280/8JS5UZuAPUnyMNOB.mp4?tag=12": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260606082429_twitter_com_fortearsidie_status_2063175181133365735.json"
-      ]
+      ],
+      "last_updated": "2026-06-12T16:44:45"
     }
   },
   "avatars": {
@@ -2401,8 +2402,8 @@
           "https://pbs.twimg.com/profile_images/2029455281055506432/6OzKIaWg_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:47",
-      "miss_count": 9
+      "last_updated": "2026-06-12T16:44:45",
+      "miss_count": 10
     },
     "20260422123227_twitter_com_fortearsidie_status_2046930128358510779.json": {
       "status": "done",
@@ -2463,8 +2464,8 @@
           "https://pbs.twimg.com/profile_images/2047713599561621505/XjenmPOH_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:50",
-      "miss_count": 9
+      "last_updated": "2026-06-12T16:44:45",
+      "miss_count": 10
     },
     "20260425160938_twitter_com_fortearsidie_status_2048071948966748389.json": {
       "status": "done",
@@ -2627,8 +2628,8 @@
           "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:52",
-      "miss_count": 9
+      "last_updated": "2026-06-12T16:44:45",
+      "miss_count": 10
     },
     "20260501163113_twitter_com_fortearsidie_status_2050251708610285861.json": {
       "status": "done",
@@ -2706,8 +2707,8 @@
           "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:52",
-      "miss_count": 9
+      "last_updated": "2026-06-12T16:44:45",
+      "miss_count": 10
     },
     "20260502132413_twitter_com_fortearsidie_status_2050567036158509072.json": {
       "status": "done",
@@ -3096,8 +3097,8 @@
           "https://pbs.twimg.com/profile_images/2047852384781778945/W-bmRG0S_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:48",
-      "miss_count": 9
+      "last_updated": "2026-06-12T16:44:45",
+      "miss_count": 10
     },
     "20260504145314_twitter_com_fortearsidie_status_2051314212291617203.json": {
       "status": "done",
@@ -3340,8 +3341,8 @@
           "https://pbs.twimg.com/profile_images/2052002480226283520/tf4CLrVm_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:47",
-      "miss_count": 9
+      "last_updated": "2026-06-12T16:44:45",
+      "miss_count": 10
     },
     "20260509095142_twitter_com_fortearsidie_status_2053050267567059112.json": {
       "status": "done",
@@ -3507,8 +3508,8 @@
           "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:47",
-      "miss_count": 9
+      "last_updated": "2026-06-12T16:44:45",
+      "miss_count": 10
     },
     "20260512152021_twitter_com_fortearsidie_status_2054220140829716723.json": {
       "status": "done",
@@ -4467,7 +4468,7 @@
           "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:42"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260607100918_twitter_com_fortearsidie_status_2063563947865964848.json": {
       "status": "unknown",
@@ -4480,7 +4481,7 @@
           "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:42"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260607144701_twitter_com_fortearsidie_status_2063633834080661506.json": {
       "status": "done",
@@ -4557,7 +4558,7 @@
           "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:43"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260608020025_twitter_com_fortearsidie_status_2063803302677192806.json": {
       "status": "unknown",
@@ -4571,7 +4572,7 @@
           "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:43"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260608024958_twitter_com_fortearsidie_status_2063815771634151748.json": {
       "status": "unknown",
@@ -4583,7 +4584,7 @@
           "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:42"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260608035219_twitter_com_fortearsidie_status_2063831464492617862.json": {
       "status": "unknown",
@@ -4595,7 +4596,7 @@
           "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:42"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260608035229_twitter_com_fortearsidie_status_2063831505152225622.json": {
       "status": "unknown",
@@ -4608,7 +4609,7 @@
           "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:42"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260608103022_twitter_com_fortearsidie_status_2063931636014895277.json": {
       "status": "unknown",
@@ -4624,7 +4625,7 @@
           "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:44"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260608103312_twitter_com_fortearsidie_status_2063932347037454344.json": {
       "status": "unknown",
@@ -4639,7 +4640,7 @@
           "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:43"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260608103518_twitter_com_fortearsidie_status_2063932878485139873.json": {
       "status": "unknown",
@@ -4653,7 +4654,7 @@
           "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:43"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260608104018_twitter_com_fortearsidie_status_2063934133282406735.json": {
       "status": "unknown",
@@ -4665,7 +4666,7 @@
           "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:42"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260608104828_twitter_com_fortearsidie_status_2063936189166759950.json": {
       "status": "done",
@@ -4691,7 +4692,7 @@
           "https://pbs.twimg.com/profile_images/2063282501242769409/djnxNIuC_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:43"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260608154134_twitter_com_fortearsidie_status_2064009951820030133.json": {
       "status": "done",
@@ -4716,7 +4717,7 @@
           "https://pbs.twimg.com/profile_images/2063994460405628928/MxugkYQ3_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:43"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260609074733_twitter_com_fortearsidie_status_2064253050488078797.json": {
       "status": "unknown",
@@ -4730,7 +4731,7 @@
           "https://pbs.twimg.com/profile_images/1760030336019468289/-6yrVg5q_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-12T16:43:43"
+      "last_updated": "2026-06-12T16:44:45"
     },
     "20260610004048_twitter_com_fortearsidie_status_2064508043585630613.json": {
       "status": "done",
