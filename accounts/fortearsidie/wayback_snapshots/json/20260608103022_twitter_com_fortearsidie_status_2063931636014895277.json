@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063931626833539072"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "conversation_id": "2063869538467553346",
+    "created_at": "2026-06-08T10:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063931636014895277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1457364958841225222",
+          "start": 0,
+          "username": "u7ed2x2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hFyPeYA9jo",
+          "end": 96,
+          "expanded_url": "https://x.com/fortearsidie/status/2063931636014895277/photo/1",
+          "media_key": "3_2063931626833539072",
+          "start": 73,
+          "url": "https://t.co/hFyPeYA9jo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063931636014895277",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063869538467553346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@u7ed2x2 我觉得这个虽然好看而且手感很好…实际上并不好用…我之前买过四五个，每一个都会在里面这个位置破掉…后来我就转casefify了… https://t.co/hFyPeYA9jo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 517,
+        "media_key": "3_2063931626833539072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSO4SIbcAAIZ-b.jpg",
+        "width": 674
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063869530540281857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRWZzabEAEhUIt.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063869530548649984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRWZzcawAAn727.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063931626833539072"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "conversation_id": "2063869538467553346",
+        "created_at": "2026-06-08T10:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063931636014895277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFyPeYA9jo",
+              "end": 96,
+              "expanded_url": "https://x.com/fortearsidie/status/2063931636014895277/photo/1",
+              "media_key": "3_2063931626833539072",
+              "start": 73,
+              "url": "https://t.co/hFyPeYA9jo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063931636014895277",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063869538467553346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 我觉得这个虽然好看而且手感很好…实际上并不好用…我之前买过四五个，每一个都会在里面这个位置破掉…后来我就转casefify了… https://t.co/hFyPeYA9jo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063869530540281857",
+            "3_2063869530548649984"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063869538467553346",
+        "created_at": "2026-06-08T06:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063869538467553346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2g0ezwgw6H",
+              "end": 62,
+              "expanded_url": "https://x.com/u7ed2x2/status/2063869538467553346/photo/1",
+              "media_key": "3_2063869530540281857",
+              "start": 39,
+              "url": "https://t.co/2g0ezwgw6H"
+            },
+            {
+              "display_url": "pic.x.com/2g0ezwgw6H",
+              "end": 62,
+              "expanded_url": "https://x.com/u7ed2x2/status/2063869538467553346/photo/1",
+              "media_key": "3_2063869530548649984",
+              "start": 39,
+              "url": "https://t.co/2g0ezwgw6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063869538467553346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4915,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "从Apple给17系列上新了米白色硅胶壳后就一直想买\n不纠结了 suki 买 https://t.co/2g0ezwgw6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 371,
+          "like_count": 5866,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 170
+        },
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 1061,
+          "like_count": 949,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 753
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

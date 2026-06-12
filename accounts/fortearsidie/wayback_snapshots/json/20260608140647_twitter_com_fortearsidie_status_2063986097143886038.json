@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2063667288654647791",
+    "created_at": "2026-06-08T14:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063986097143886038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906229079541522432",
+          "start": 0,
+          "username": "baiye12255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063986097143886038",
+    "in_reply_to_user_id": "1906229079541522432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063667288654647791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiye12255 ☝️🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2063667284837814272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOedjdaUAAYzAN.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2063667288654647791",
+        "created_at": "2026-06-08T14:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063986097143886038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906229079541522432",
+              "start": 0,
+              "username": "baiye12255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063986097143886038",
+        "in_reply_to_user_id": "1906229079541522432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063667288654647791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiye12255 ☝️🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063667284837814272"
+          ]
+        },
+        "author_id": "1906229079541522432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2063667288654647791",
+        "created_at": "2026-06-07T16:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063667288654647791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/ZrbI0wA6mJ"
+            },
+            {
+              "display_url": "pic.x.com/VCHQiy6B6K",
+              "end": 64,
+              "expanded_url": "https://x.com/baiye12255/status/2063667288654647791/photo/1",
+              "media_key": "3_2063667284837814272",
+              "start": 41,
+              "url": "https://t.co/VCHQiy6B6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063667288654647791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/ZrbI0wA6mJ https://t.co/VCHQiy6B6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 371,
+          "like_count": 5843,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 174
+        },
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-30T06:17:03.000Z",
+        "description": "宁宁ovo｜enfp｜女权｜Sub｜祝大家天天开心｜五月天🥕｜🌟匿名提问https://t.co/gMewtiUGim｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%99%BD%E5%A…",
+                "end": 59,
+                "expanded_url": "https://ngl.link/%E7%99%BD%E5%A4%9C52455",
+                "start": 36,
+                "url": "https://t.co/gMewtiUGim"
+              }
+            ]
+          }
+        },
+        "id": "1906229079541522432",
+        "location": "日本",
+        "name": "白夜ovo",
+        "pinned_tweet_id": "1956032814165713356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063282501242769409/djnxNIuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 85,
+          "like_count": 3443,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1145
+        },
+        "username": "baiye12255",
+        "verified": false
+      }
+    ]
+  }
+}
