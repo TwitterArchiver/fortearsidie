@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2066106259049463895",
+    "created_at": "2026-06-15T15:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066536281543500194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824282702599839745",
+          "start": 0,
+          "username": "F1rstk1nng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066536281543500194",
+    "in_reply_to_user_id": "1824282702599839745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066480500466929685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@F1rstk1nng 这波大意了 换成盐义野将绝杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2066106259049463895",
+        "created_at": "2026-06-15T15:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066536281543500194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824282702599839745",
+              "start": 0,
+              "username": "F1rstk1nng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066536281543500194",
+        "in_reply_to_user_id": "1824282702599839745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066480500466929685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@F1rstk1nng 这波大意了 换成盐义野将绝杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824282702599839745",
+        "conversation_id": "2066106259049463895",
+        "created_at": "2026-06-15T11:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066480500466929685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991795014163382272",
+              "start": 0,
+              "username": "fortearsidie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066480500466929685",
+        "in_reply_to_user_id": "1991795014163382272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066106259049463895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fortearsidie 霓虹人还会购入我大国货pr吗…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 471,
+          "like_count": 7761,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 203
+        },
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-16T03:11:17.000Z",
+        "description": "拿批/isfp/valorant/性别利群/tele梦男/港服白金/vrc/喜欢聪明的人/不o不割不抽不喝嗯对/无需在意我的帖文/如有冒犯对不起 会互fo ただ花が降るだけ晴れり 今、春吹雪.",
+        "id": "1824282702599839745",
+        "name": "不太快乐海胆栗子君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030806782327881728/PvdheVL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 28,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 110
+        },
+        "username": "F1rstk1nng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067904761874284544"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "conversation_id": "2067904774125854911",
+    "created_at": "2026-06-19T09:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067904774125854911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zygklxlgqM",
+          "end": 35,
+          "expanded_url": "https://x.com/fortearsidie/status/2067904774125854911/photo/1",
+          "media_key": "3_2067904761874284544",
+          "start": 12,
+          "url": "https://t.co/zygklxlgqM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067904774125854911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟这个表情一模一样啊😋 https://t.co/zygklxlgqM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067904761874284544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKsbLjbAAA0oy9.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067904761874284544"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "conversation_id": "2067904774125854911",
+        "created_at": "2026-06-19T09:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067904774125854911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zygklxlgqM",
+              "end": 35,
+              "expanded_url": "https://x.com/fortearsidie/status/2067904774125854911/photo/1",
+              "media_key": "3_2067904761874284544",
+              "start": 12,
+              "url": "https://t.co/zygklxlgqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067904774125854911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟这个表情一模一样啊😋 https://t.co/zygklxlgqM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 485,
+          "like_count": 8224,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      }
+    ]
+  }
+}

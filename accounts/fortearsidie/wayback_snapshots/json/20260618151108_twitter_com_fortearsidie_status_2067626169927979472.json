@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2067624843445682219",
+    "created_at": "2026-06-18T15:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067626169927979472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1542108779302760449",
+          "start": 0,
+          "username": "C10n3_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067626169927979472",
+    "in_reply_to_user_id": "1542108779302760449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067624843445682219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C10n3_F 有的哥们 有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2067624843445682219",
+        "created_at": "2026-06-18T15:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067626169927979472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1542108779302760449",
+              "start": 0,
+              "username": "C10n3_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067626169927979472",
+        "in_reply_to_user_id": "1542108779302760449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067624843445682219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C10n3_F 有的哥们 有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542108779302760449",
+        "conversation_id": "2067624843445682219",
+        "created_at": "2026-06-18T15:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067624843445682219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067624843445682219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本沒有人會真正愛我吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 476,
+          "like_count": 7856,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 206
+        },
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-29T11:32:47.000Z",
+        "description": "Dry your tears with love |ftx🏳️‍⚧️| his/him",
+        "id": "1542108779302760449",
+        "location": "🚪88｜🦴@me0420_",
+        "name": "Clone",
+        "pinned_tweet_id": "2062491984724701210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064826703437082625/uLC92Zt8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 322,
+          "like_count": 9320,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2185
+        },
+        "username": "C10n3_F",
+        "verified": false
+      }
+    ]
+  }
+}

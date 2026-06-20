@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066201528747376640"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "conversation_id": "2066106259049463895",
+    "created_at": "2026-06-14T16:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066201567561461982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001675650994999296",
+          "start": 0,
+          "username": "Pluralitysubsys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9txdfEAMnv",
+          "end": 76,
+          "expanded_url": "https://x.com/fortearsidie/status/2066201567561461982/photo/1",
+          "media_key": "3_2066201528747376640",
+          "start": 53,
+          "url": "https://t.co/9txdfEAMnv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066201567561461982",
+    "in_reply_to_user_id": "2001675650994999296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066183694868693182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pluralitysubsys 是不是剂量不合适 可以算下呢  不过这个推荐剂量对我来说也有点不太够用 https://t.co/9txdfEAMnv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1715,
+        "media_key": "3_2066201528747376640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyfV9tbQAAwxXv.jpg",
+        "width": 1238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066201528747376640"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "conversation_id": "2066106259049463895",
+        "created_at": "2026-06-14T16:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066201567561461982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9txdfEAMnv",
+              "end": 76,
+              "expanded_url": "https://x.com/fortearsidie/status/2066201567561461982/photo/1",
+              "media_key": "3_2066201528747376640",
+              "start": 53,
+              "url": "https://t.co/9txdfEAMnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066201567561461982",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066183694868693182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluralitysubsys 是不是剂量不合适 可以算下呢  不过这个推荐剂量对我来说也有点不太够用 https://t.co/9txdfEAMnv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001675650994999296",
+        "conversation_id": "2066106259049463895",
+        "created_at": "2026-06-14T15:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066183694868693182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991795014163382272",
+              "start": 0,
+              "username": "fortearsidie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066183694868693182",
+        "in_reply_to_user_id": "1991795014163382272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066172503127621917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fortearsidie 完全没有好他妈晕，一早起来就吐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 467,
+          "like_count": 7710,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 201
+        },
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/plurality…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/pluralitysubsystem2025personal",
+                "start": 0,
+                "url": "https://t.co/Bv5TPNjkK9"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2059175171286819294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 111,
+          "like_count": 1504,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 2427
+        },
+        "url": "https://t.co/Bv5TPNjkK9",
+        "username": "Pluralitysubsys",
+        "verified": false
+      }
+    ]
+  }
+}

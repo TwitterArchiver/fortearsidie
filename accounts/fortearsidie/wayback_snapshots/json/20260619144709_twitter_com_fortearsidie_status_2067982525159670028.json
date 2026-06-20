@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2067876927248191634",
+    "created_at": "2026-06-19T14:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067982525159670028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1303801978624118784",
+          "start": 0,
+          "username": "ChaNgeMiNd67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067982525159670028",
+    "in_reply_to_user_id": "1303801978624118784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067929083745632655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaNgeMiNd67 唉你也别太难过🥺可怜了这只小猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2067876927248191634",
+        "created_at": "2026-06-19T14:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067982525159670028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1303801978624118784",
+              "start": 0,
+              "username": "ChaNgeMiNd67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067982525159670028",
+        "in_reply_to_user_id": "1303801978624118784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067929083745632655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaNgeMiNd67 唉你也别太难过🥺可怜了这只小猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303801978624118784",
+        "conversation_id": "2067876927248191634",
+        "created_at": "2026-06-19T11:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067929083745632655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991795014163382272",
+              "start": 0,
+              "username": "fortearsidie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067929083745632655",
+        "in_reply_to_user_id": "1991795014163382272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067914749967503714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fortearsidie 赔了一半🥲🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 486,
+          "like_count": 8239,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-09T21:06:41.000Z",
+        "description": "可爱的婊子",
+        "id": "1303801978624118784",
+        "location": "地府  不聊骚 不卖逼 ",
+        "name": "帶狀皰疹患者",
+        "pinned_tweet_id": "2066019396401995920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067173849209384960/j9UhlUAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 756
+        },
+        "url": "",
+        "username": "ChaNgeMiNd67",
+        "verified": false
+      }
+    ]
+  }
+}
