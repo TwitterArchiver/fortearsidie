@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2068714149111333228",
+    "created_at": "2026-06-21T17:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068744197591777713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2004244481709953030",
+          "start": 0,
+          "username": "PNJKA1978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068744197591777713",
+    "in_reply_to_user_id": "2004244481709953030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068737661020565817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PNJKA1978 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2068714149111333228",
+        "created_at": "2026-06-21T17:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068744197591777713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2004244481709953030",
+              "start": 0,
+              "username": "PNJKA1978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068744197591777713",
+        "in_reply_to_user_id": "2004244481709953030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068737661020565817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PNJKA1978 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004244481709953030",
+        "conversation_id": "2068714149111333228",
+        "created_at": "2026-06-21T16:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068737661020565817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991795014163382272",
+              "start": 0,
+              "username": "fortearsidie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068737661020565817",
+        "in_reply_to_user_id": "1991795014163382272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068714149111333228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fortearsidie 祝你身体快好起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 557,
+          "like_count": 9397,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-25T17:35:12.000Z",
+        "description": "中华人民共和国万岁!🇨🇳\n世界人民大团结万岁!🌏\n坚持中国共产党领导!✊\n世界男女大平等万岁!❤️\n愿望世界和平人类团结丨三观正道皇(自封)丨可闲聊 随缘在线三低勿扰丨",
+        "id": "2004244481709953030",
+        "location": "Hong Kong",
+        "name": "晚星寒",
+        "pinned_tweet_id": "2068635598924165235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018642533694210048/gjTQ_uep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 6,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "PNJKA1978",
+        "verified": false
+      }
+    ]
+  }
+}

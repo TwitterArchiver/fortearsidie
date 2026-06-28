@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2070609839437525177",
+    "created_at": "2026-06-26T20:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T21:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070610651865837738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070610651865837738",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070609839437525177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@lvovl3 纤维肌痛？可以挂个疼痛苦让专家看一下？普瑞巴林也可以治"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2070609839437525177",
+        "created_at": "2026-06-26T20:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T21:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070610651865837738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070610651865837738",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070609839437525177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@lvovl3 纤维肌痛？可以挂个疼痛苦让专家看一下？普瑞巴林也可以治"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2070609839437525177",
+        "created_at": "2026-06-26T20:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T21:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070609839437525177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NGNGVXX/status…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/NGNGVXX/status/2070514223747383783",
+              "start": 110,
+              "url": "https://t.co/5encC8Dgn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070609839437525177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070514223747383783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "13或者14岁开始浑身疼痛\n没有伤口但是痛得晚上会惊醒\n家长认为我是鬼上身求神拜佛\n喝了很多符水(类似 没有符 只是求赐福)\n\n好消息我吃了度洛西汀后活到了22岁\n坏消息不按时吃就痛得意识模糊\n然而我又要换药了(忧愁) https://t.co/5encC8Dgn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 590,
+          "like_count": 10042,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 239
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo\n嫡嫡道道餐券女/全世界最恨homework之人\n人生是被恐惧追赶着逃跑",
+        "id": "1994724283176947712",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2051808991211389330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045457060691947520/5tmyTi7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 409,
+          "like_count": 3121,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 3570
+        },
+        "url": "",
+        "username": "lvovl3",
+        "verified": false
+      }
+    ]
+  }
+}

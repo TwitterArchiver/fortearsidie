@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2068714149111333228",
+    "created_at": "2026-06-22T01:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068864320973476151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906229079541522432",
+          "start": 0,
+          "username": "baiye12255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068864320973476151",
+    "in_reply_to_user_id": "1906229079541522432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068761125936906495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiye12255 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2068714149111333228",
+        "created_at": "2026-06-22T01:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068864320973476151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906229079541522432",
+              "start": 0,
+              "username": "baiye12255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068864320973476151",
+        "in_reply_to_user_id": "1906229079541522432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068761125936906495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiye12255 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906229079541522432",
+        "conversation_id": "2068714149111333228",
+        "created_at": "2026-06-21T18:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068761125936906495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991795014163382272",
+              "start": 0,
+              "username": "fortearsidie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068761125936906495",
+        "in_reply_to_user_id": "1991795014163382272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068714149111333228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fortearsidie 这么多瓶瓶罐罐 心疼你.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 556,
+          "like_count": 9402,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-30T06:17:03.000Z",
+        "description": "宁宁ovo｜enfp｜女权｜Sub｜祝大家天天开心｜五月天🥕｜🌟人生日志更新中 需要请私信～｜",
+        "id": "1906229079541522432",
+        "location": "日本",
+        "name": "白夜ovo",
+        "pinned_tweet_id": "1956032814165713356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065834663328059392/7m2rbtI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 82,
+          "like_count": 3728,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1212
+        },
+        "url": "",
+        "username": "baiye12255",
+        "verified": false
+      }
+    ]
+  }
+}

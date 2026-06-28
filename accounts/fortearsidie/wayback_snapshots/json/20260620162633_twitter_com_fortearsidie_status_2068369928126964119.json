@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068369822094913536",
+        "3_2068369822099075072",
+        "3_2068369822094929920"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "conversation_id": "2068369928126964119",
+    "created_at": "2026-06-20T16:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068369928126964119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UoC5yVjd5Q",
+          "end": 36,
+          "expanded_url": "https://x.com/fortearsidie/status/2068369928126964119/photo/1",
+          "media_key": "3_2068369822094913536",
+          "start": 13,
+          "url": "https://t.co/UoC5yVjd5Q"
+        },
+        {
+          "display_url": "pic.x.com/UoC5yVjd5Q",
+          "end": 36,
+          "expanded_url": "https://x.com/fortearsidie/status/2068369928126964119/photo/1",
+          "media_key": "3_2068369822099075072",
+          "start": 13,
+          "url": "https://t.co/UoC5yVjd5Q"
+        },
+        {
+          "display_url": "pic.x.com/UoC5yVjd5Q",
+          "end": 36,
+          "expanded_url": "https://x.com/fortearsidie/status/2068369928126964119/photo/1",
+          "media_key": "3_2068369822094929920",
+          "start": 13,
+          "url": "https://t.co/UoC5yVjd5Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068369928126964119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就是臭二次元如何破产的 https://t.co/UoC5yVjd5Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068369822094913536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRTZP4a8AASz_X.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068369822099075072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRTZP5acAA-7CF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2068369822094929920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRTZP4bMAAXTRJ.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068369822094913536",
+            "3_2068369822099075072",
+            "3_2068369822094929920"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "conversation_id": "2068369928126964119",
+        "created_at": "2026-06-20T16:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068369928126964119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UoC5yVjd5Q",
+              "end": 36,
+              "expanded_url": "https://x.com/fortearsidie/status/2068369928126964119/photo/1",
+              "media_key": "3_2068369822094913536",
+              "start": 13,
+              "url": "https://t.co/UoC5yVjd5Q"
+            },
+            {
+              "display_url": "pic.x.com/UoC5yVjd5Q",
+              "end": 36,
+              "expanded_url": "https://x.com/fortearsidie/status/2068369928126964119/photo/1",
+              "media_key": "3_2068369822099075072",
+              "start": 13,
+              "url": "https://t.co/UoC5yVjd5Q"
+            },
+            {
+              "display_url": "pic.x.com/UoC5yVjd5Q",
+              "end": 36,
+              "expanded_url": "https://x.com/fortearsidie/status/2068369928126964119/photo/1",
+              "media_key": "3_2068369822094929920",
+              "start": 13,
+              "url": "https://t.co/UoC5yVjd5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068369928126964119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是臭二次元如何破产的 https://t.co/UoC5yVjd5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 496,
+          "like_count": 8584,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      }
+    ]
+  }
+}

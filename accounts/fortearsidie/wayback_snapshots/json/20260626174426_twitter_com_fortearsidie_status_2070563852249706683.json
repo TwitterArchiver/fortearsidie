@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2070549783358640398",
+    "created_at": "2026-06-26T17:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070563852249706683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025233152755859463",
+          "start": 0,
+          "username": "Yadouon_neoii24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070563852249706683",
+    "in_reply_to_user_id": "2025233152755859463",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070563426448126412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yadouon_neoii24 是吧是吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2070549783358640398",
+        "created_at": "2026-06-26T17:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070563852249706683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025233152755859463",
+              "start": 0,
+              "username": "Yadouon_neoii24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070563852249706683",
+        "in_reply_to_user_id": "2025233152755859463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070563426448126412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yadouon_neoii24 是吧是吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025233152755859463",
+        "conversation_id": "2070549783358640398",
+        "created_at": "2026-06-26T17:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070563426448126412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991795014163382272",
+              "start": 0,
+              "username": "fortearsidie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070563426448126412",
+        "in_reply_to_user_id": "1991795014163382272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070549783358640398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fortearsidie 好帅诶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 585,
+          "like_count": 9925,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T15:36:38.000Z",
+        "description": "偶就随便发发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yadouon_neoii24",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yadouon_neoii24",
+                "start": 0,
+                "url": "https://t.co/HzsYyTintJ"
+              }
+            ]
+          }
+        },
+        "id": "2025233152755859463",
+        "name": "稀屎丸( ° △ °)",
+        "pinned_tweet_id": "2056675568330899475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058418573849055232/fsBlIlLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 133,
+          "like_count": 6799,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/HzsYyTintJ",
+        "username": "Yadouon_neoii24",
+        "verified": false
+      }
+    ]
+  }
+}
