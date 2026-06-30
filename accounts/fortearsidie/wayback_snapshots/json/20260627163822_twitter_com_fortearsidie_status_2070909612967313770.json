@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2070841231459131642",
+    "created_at": "2026-06-27T16:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070909612967313770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584061393543626752",
+          "start": 0,
+          "username": "borzoisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070909612967313770",
+    "in_reply_to_user_id": "1584061393543626752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070841231459131642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@borzoisama 好酷啊🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1887,
+        "media_key": "3_2070841220600066049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0bHkwacAEZydT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2070841231459131642",
+        "created_at": "2026-06-27T16:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070909612967313770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584061393543626752",
+              "start": 0,
+              "username": "borzoisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070909612967313770",
+        "in_reply_to_user_id": "1584061393543626752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070841231459131642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@borzoisama 好酷啊🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070841220600066049"
+          ]
+        },
+        "author_id": "1584061393543626752",
+        "conversation_id": "2070841231459131642",
+        "created_at": "2026-06-27T12:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070841231459131642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNBQ2214yi",
+              "end": 34,
+              "expanded_url": "https://x.com/borzoisama/status/2070841231459131642/photo/1",
+              "media_key": "3_2070841220600066049",
+              "start": 11,
+              "url": "https://t.co/oNBQ2214yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070841231459131642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这光线有股1几年画质 https://t.co/oNBQ2214yi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 596,
+          "like_count": 10269,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-23T05:57:34.000Z",
+        "description": "超绝低精力抽象乐子狗狗人",
+        "id": "1584061393543626752",
+        "location": "被子里",
+        "name": "波索尔",
+        "pinned_tweet_id": "2000158324877398121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888152214830796800/L3dMIwTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 169,
+          "like_count": 29247,
+          "listed_count": 1,
+          "media_count": 744,
+          "tweet_count": 9780
+        },
+        "url": "",
+        "username": "borzoisama",
+        "verified": false
+      }
+    ]
+  }
+}
