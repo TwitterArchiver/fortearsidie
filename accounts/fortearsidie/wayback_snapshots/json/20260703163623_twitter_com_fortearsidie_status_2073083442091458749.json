@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073083432016740357"
+      ]
+    },
+    "author_id": "1991795014163382272",
+    "conversation_id": "2072863177608749541",
+    "created_at": "2026-07-03T16:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073083442091458749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1931114312296538112",
+          "start": 0,
+          "username": "Ayumi_0222_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JX5PpRRpQY",
+          "end": 36,
+          "expanded_url": "https://x.com/fortearsidie/status/2073083442091458749/photo/1",
+          "media_key": "3_2073083432016740357",
+          "start": 13,
+          "url": "https://t.co/JX5PpRRpQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073083442091458749",
+    "in_reply_to_user_id": "1931114312296538112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072863177608749541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayumi_0222_ https://t.co/JX5PpRRpQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2073083432016740357",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUSZdMbAAULJj6.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1165,
+        "media_key": "3_2072863166145724416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRKES4bgAAlMA1.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073083432016740357"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "conversation_id": "2072863177608749541",
+        "created_at": "2026-07-03T16:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073083442091458749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1931114312296538112",
+              "start": 0,
+              "username": "Ayumi_0222_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JX5PpRRpQY",
+              "end": 36,
+              "expanded_url": "https://x.com/fortearsidie/status/2073083442091458749/photo/1",
+              "media_key": "3_2073083432016740357",
+              "start": 13,
+              "url": "https://t.co/JX5PpRRpQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073083442091458749",
+        "in_reply_to_user_id": "1931114312296538112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072863177608749541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayumi_0222_ https://t.co/JX5PpRRpQY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072863166145724416"
+          ]
+        },
+        "author_id": "1931114312296538112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072863177608749541",
+        "created_at": "2026-07-03T02:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072863177608749541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeJaQZXYll",
+              "end": 23,
+              "expanded_url": "https://x.com/Ayumi_0222_/status/2072863177608749541/photo/1",
+              "media_key": "3_2072863166145724416",
+              "start": 0,
+              "url": "https://t.co/YeJaQZXYll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072863177608749541",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YeJaQZXYll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "普瑞喵喵",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073070720087928832/5YhjfI4X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 617,
+          "like_count": 10849,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T22:22:42.000Z",
+        "description": "AYUMI OF THE GODS\n@OneMultiplied",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "OneMultiplied"
+              }
+            ]
+          }
+        },
+        "id": "1931114312296538112",
+        "location": "参宿四",
+        "name": "愛島零代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984666097728307205/dDatg5XI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 401,
+          "like_count": 3313,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1480
+        },
+        "url": "",
+        "username": "Ayumi_0222_",
+        "verified": true
+      }
+    ]
+  }
+}

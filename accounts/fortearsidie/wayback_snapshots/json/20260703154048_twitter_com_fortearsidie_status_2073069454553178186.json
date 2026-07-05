@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2073000925916996030",
+    "created_at": "2026-07-03T15:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073069454553178186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073069454553178186",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073000925916996030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb 上班心情堪比上坟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2073000925916996030",
+        "created_at": "2026-07-03T15:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073069454553178186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073069454553178186",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073000925916996030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb 上班心情堪比上坟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287313244693000193",
+        "conversation_id": "2073000925916996030",
+        "created_at": "2026-07-03T11:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073000925916996030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073000925916996030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候哭闹着不要去上学，长大了绝望的带着不想上班的心情去上班"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 616,
+          "like_count": 10714,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "病み裏垢🚫  \nhttps://t.co/UQQWQB3ylm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 31,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 8,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "location": "宇宙空間🚪520",
+        "name": "南极磷虾",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760030336019468289/-6yrVg5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 2283,
+          "like_count": 19107,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 13977
+        },
+        "url": "",
+        "username": "dsknzb",
+        "verified": false
+      }
+    ]
+  }
+}
