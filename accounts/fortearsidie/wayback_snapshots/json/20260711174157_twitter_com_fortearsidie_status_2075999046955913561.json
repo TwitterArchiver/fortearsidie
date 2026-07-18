@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2075998281747124344",
+    "created_at": "2026-07-11T17:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075999046955913561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584061393543626752",
+          "start": 0,
+          "username": "borzoisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075999046955913561",
+    "in_reply_to_user_id": "1584061393543626752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075998281747124344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@borzoisama Literally me….精致的利己主义但同时心怀愧疚希望做些什么来对冲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2075998281747124344",
+        "created_at": "2026-07-11T17:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075999046955913561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584061393543626752",
+              "start": 0,
+              "username": "borzoisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075999046955913561",
+        "in_reply_to_user_id": "1584061393543626752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075998281747124344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@borzoisama Literally me….精致的利己主义但同时心怀愧疚希望做些什么来对冲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584061393543626752",
+        "conversation_id": "2075998281747124344",
+        "created_at": "2026-07-11T17:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075998281747124344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075998281747124344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自私，利己主义会让我的生活变得更好\n但是做不到\n做不到下意识采用那样的思维方式\n总觉得自己会变成一个冷漠的人\n脑子里95%想的都是自己怎样获利\n太糟糕了\n讨厌这样的人也讨厌成为这样的人\n即使会取得世俗成就\n总是在某些地方道德感出奇地高而又在某些地方出奇地低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "普瑞喵喵",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073070720087928832/5YhjfI4X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 704,
+          "like_count": 12684,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-23T05:57:34.000Z",
+        "description": "超绝低精力抽象乐子狗狗人",
+        "id": "1584061393543626752",
+        "location": "被子里",
+        "name": "波索尔",
+        "pinned_tweet_id": "2000158324877398121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888152214830796800/L3dMIwTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 165,
+          "like_count": 30571,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 9897
+        },
+        "url": "",
+        "username": "borzoisama",
+        "verified": false
+      }
+    ]
+  }
+}
