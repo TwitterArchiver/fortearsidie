@@ -1,8 +1,8 @@
 {
-  "name": "为泪舍己",
+  "name": "普瑞喵喵",
   "username": "@fortearsidie",
-  "bio": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+ 碎碎念｜大龄社畜｜有对象｜欢迎互fo BFF：@hongdounuomi “我们彻夜飞旋，直至没入火焰。”",
-  "location": "The Kingdom of overdose",
+  "bio": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+  "location": "    The Kingdom of overdose",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
@@ -10,10 +10,11 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 51,
-        "start": 39,
-        "username": "mangoqwq404"
+        "end": 72,
+        "start": 59,
+        "username": "hongdounuomi"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2073070720087928832/5YhjfI4X_normal.jpg"
 }
