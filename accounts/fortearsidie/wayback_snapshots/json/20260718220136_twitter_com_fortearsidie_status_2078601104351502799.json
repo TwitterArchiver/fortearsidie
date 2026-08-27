@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2078601104351502799",
+    "created_at": "2026-07-18T22:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T22:59:35.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078600597880860916",
+      "2078601104351502799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fortearsidie/s…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/fortearsidie/status/2068713294735778302",
+          "start": 58,
+          "url": "https://t.co/OAcKqNGKOH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078601104351502799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068713294735778302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Now I lost both of them 我好像什么话都说不出来了 我的心又少了一部分 我的遗憾又堆积了一些 https://t.co/OAcKqNGKOH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2078600597880860916",
+        "created_at": "2026-07-18T21:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:59:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078600597880860916",
+          "2078601104351502799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fortearsidie/s…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/fortearsidie/status/2068713294735778302",
+              "start": 59,
+              "url": "https://t.co/OAcKqNGKOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078600597880860916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068713294735778302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Now I lost both of them 我好像什么话都说不出来了 我心里又少了一部分 我的遗憾又堆积地了一些 https://t.co/OAcKqNGKOH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2078601104351502799",
+        "created_at": "2026-07-18T22:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:59:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078600597880860916",
+          "2078601104351502799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fortearsidie/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/fortearsidie/status/2068713294735778302",
+              "start": 58,
+              "url": "https://t.co/OAcKqNGKOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078601104351502799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068713294735778302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Now I lost both of them 我好像什么话都说不出来了 我的心又少了一部分 我的遗憾又堆积了一些 https://t.co/OAcKqNGKOH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2068713294735778302",
+        "created_at": "2026-06-21T15:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068713294735778302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068713294735778302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1746,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从19年注册第一个推特号到现在 遇到了两个让我痛哭过的人 我想这就是推特给我的意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "普瑞喵喵",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073070720087928832/5YhjfI4X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 759,
+          "like_count": 13573,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      }
+    ]
+  }
+}
