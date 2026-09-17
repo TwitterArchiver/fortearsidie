@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991795014163382272",
+    "conversation_id": "2078200942823121316",
+    "created_at": "2026-07-17T19:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078202662152216719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1503621214551494657",
+          "start": 0,
+          "username": "zrktoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078202662152216719",
+    "in_reply_to_user_id": "1503621214551494657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078201787044220966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zrktoin 是真的 我自己有养两只猫 正常情况下都很平稳 猫是很能提供情绪价值的宠物 但如果生病的话就很麻烦 因为宠物就跟小孩一样 他们没法描述自己病情 生病的话就一定要带去宠物医院做全面检查"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2078200942823121316",
+        "created_at": "2026-07-17T19:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078202662152216719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1503621214551494657",
+              "start": 0,
+              "username": "zrktoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078202662152216719",
+        "in_reply_to_user_id": "1503621214551494657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078201787044220966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zrktoin 是真的 我自己有养两只猫 正常情况下都很平稳 猫是很能提供情绪价值的宠物 但如果生病的话就很麻烦 因为宠物就跟小孩一样 他们没法描述自己病情 生病的话就一定要带去宠物医院做全面检查"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503621214551494657",
+        "conversation_id": "2078200942823121316",
+        "created_at": "2026-07-17T19:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078201787044220966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078201787044220966",
+        "in_reply_to_user_id": "1503621214551494657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078200942823121316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前最想养的宠物是有自主行动能力的人因为我需要宠物自己照顾自己。。\n虽然好像照顾宠物也是一部分养宠物的乐趣，但我只想玩宠物\n愿意勤勤恳恳每天照顾真的很爱了，从照顾的方便程度来看我果然还是适合养猫，或者养蛇，但是养蛇要喂老鼠\n养花还要浇水呢，握草呀我养不了任何东西，所有东西都需要照顾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "普瑞喵喵",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073070720087928832/5YhjfI4X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 733,
+          "like_count": 13124,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-15T06:39:15.000Z",
+        "description": "精神状态时好时坏     胡言乱语生成器\n理解人类中 理解自己中  \n我把这玩意当日记本发    想到什么说什么     很吵\n\n回憶錄",
+        "id": "1503621214551494657",
+        "name": "鸿泥",
+        "pinned_tweet_id": "2070742770583777763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537877358685741056/Kf691MgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 320,
+          "like_count": 7755,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 2414
+        },
+        "url": "",
+        "username": "zrktoin",
+        "verified": false
+      }
+    ]
+  }
+}
